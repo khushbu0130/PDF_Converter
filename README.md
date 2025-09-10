@@ -13,6 +13,9 @@ Built with PyPDF2, img2pdf, and Pillow, this tool is lightweight, beginner-frien
 ![image_alt](https://github.com/khushbu0130/PDF_Converter/blob/28211d8684e245c493c882b3492e30561ebb3ea4/screenshots/Convert.png)
 
 
+![image_alt](https://github.com/khushbu0130/PDF_Converter/blob/6282abbb772e91bf844e3b4d022a964e914f41e9/screenshots/Join.png)
+
+
 
 
 🔥 Features
