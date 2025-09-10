@@ -7,6 +7,8 @@ A Python-based PDF Converter with a simple Tkinter GUI that lets you:
 
 Built with PyPDF2, img2pdf, and Pillow, this tool is lightweight, beginner-friendly, and super handy for everyday PDF tasks.
 
+
+
 🔥 Features
 
 🖼️ Convert: JPG/PNG → PDF
@@ -16,6 +18,8 @@ Built with PyPDF2, img2pdf, and Pillow, this tool is lightweight, beginner-frien
 🔗 Merge: Join two PDFs into one
 
 🎨 Simple and clean Tkinter GUI
+
+
 
 ⚙️ Installation
 
@@ -34,6 +38,8 @@ python -m pip install -r requirements.txt
 
 python "PDF Converter.py"
 
+
+
 📦 Requirements
 
 Python 3.x
@@ -46,7 +52,7 @@ img2pdf
 
 Pillow
 
-(Already listed in requirements.txt)
+
 
 🚀 Usage
 
