@@ -1,43 +1,40 @@
-PDF Converter Tool
+📄 PDF Converter Tool
 
-A simple Python-based PDF Converter with a Tkinter GUI that allows users to perform common PDF operations with ease. The tool provides three main features:
+A Python-based PDF Converter with a simple Tkinter GUI that lets you:
+✨ Convert images → PDF
+✨ Split a PDF into pages
+✨ Merge multiple PDFs into one
 
-Convert images (JPG/PNG) into PDF.
+Built with PyPDF2, img2pdf, and Pillow, this tool is lightweight, beginner-friendly, and super handy for everyday PDF tasks.
 
-Split a PDF into individual pages.
+🔥 Features
 
-Merge two PDF files into one.
+🖼️ Convert: JPG/PNG → PDF
 
-Built using PyPDF2, img2pdf, and Pillow, this project is lightweight, user-friendly, and designed for quick PDF management tasks.
+✂️ Split: Break PDFs into single-page files
 
-Features
+🔗 Merge: Join two PDFs into one
 
-Convert images to PDF with one click.
+🎨 Simple and clean Tkinter GUI
 
-Split PDFs into single-page files.
+⚙️ Installation
 
-Merge multiple PDFs into a single document.
-
-Simple and interactive Tkinter GUI.
-
-Installation
-
-Clone this repository or download the source code.
+1️⃣ Clone the repository
 
 git clone https://github.com/your-username/pdf-converter.git
 cd pdf-converter
 
 
-Install dependencies:
+2️⃣ Install dependencies
 
 python -m pip install -r requirements.txt
 
 
-Run the application:
+3️⃣ Run the application
 
 python "PDF Converter.py"
 
-Requirements
+📦 Requirements
 
 Python 3.x
 
@@ -51,13 +48,10 @@ Pillow
 
 (Already listed in requirements.txt)
 
-Usage
+🚀 Usage
 
-Convert: Load an image (JPG/PNG) → Save as PDF.
+Convert → Load image → Save as PDF
 
-Split: Load a PDF → Select folder → Split into individual PDFs.
+Split → Load PDF → Choose folder → Split pages
 
-Merge: Load two PDFs → Save as merged PDF.
-
-
-
+Merge → Load 2 PDFs → Save as one file
